@@ -1,10 +1,4 @@
-.hero img {
-    position: absolute;
-}
-.hero .row {
-    position: relative;
-    text-align: center;
-}
-.top-text {
-    padding-top: 400px;
+.img-fluid {
+    border-left: -200px;
+
 }
