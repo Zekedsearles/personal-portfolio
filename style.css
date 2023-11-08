@@ -7,11 +7,8 @@
     height: 80vh;
     width: 100%;
 }
-.hero .row {
+.hero-text {
     position: relative;
     text-align: center;
-}
-.hero h5,h1,h3 {
-    vertical-align: middle;
-    height:fit-content;
+    top: 80px;
 }
