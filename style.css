@@ -1,4 +1,17 @@
-.img-fluid {
-    border-left: -200px;
-
+.hero {
+    position: absolute;
+    background-image: url("images/IMG_7403.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+}
+.hero .row {
+    position: relative;
+    text-align: center;
+}
+.hero h5,h1,h3 {
+    vertical-align: middle;
+    height:fit-content;
 }
