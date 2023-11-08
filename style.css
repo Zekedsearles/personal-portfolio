@@ -1,14 +1,22 @@
+.navbar {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
 .hero {
-    position: absolute;
     background-image: url("images/IMG_7403.jpeg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 80vh;
+    height: 90vh;
     width: 100%;
 }
 .hero-text {
-    position: relative;
     text-align: center;
-    top: 80px;
+    margin-top: 80px;
+}
+.sub-hero {
+    padding-top: 40px;
+}
+.sub-hero {
+    
 }
