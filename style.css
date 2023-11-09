@@ -15,8 +15,17 @@
     margin-top: 80px;
 }
 .sub-hero {
-    padding-top: 40px;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
-.sub-hero {
-    
+.sub-hero h3 {
+    padding-top: 200px;
+}
+.sub-hero h3, p {
+    text-align: center;
+
+}
+.landscape-aspectratio {
+    aspect-ratio: 1.0;
+    object-fit: cover;
 }
