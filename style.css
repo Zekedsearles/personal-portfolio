@@ -24,15 +24,11 @@
 .links {
     padding-top: 140px;
 }
-@media (min-width: 768px) {
-    .sub-hero {
-        padding-top: 80px;
-        padding-bottom: 80px;
-    }
-    .sub-hero h3 {
-        padding-top: 200px;
-    }
+ .sub-hero {
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
+
 /*These lines are for my form CSS */
 
 
