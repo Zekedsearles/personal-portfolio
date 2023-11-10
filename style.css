@@ -33,3 +33,27 @@
         padding-top: 200px;
     }
 }
+/*These lines are for my form CSS */
+
+
+
+/*These lines of CSS are for my current and previous projects page*/
+
+.hero-projects {
+    background-image: url("images/hero-projects.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 90vh;
+    width: 100%;
+}
+.hero-text {
+    text-align: center;
+    margin-top: 80px;
+}
+.project {
+    padding: 24px 0;
+}
+.project h2 {
+    text-align: center;
+}
